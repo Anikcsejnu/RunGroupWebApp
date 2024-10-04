@@ -1,0 +1,74 @@
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.vscode
+.vscode/
+
+# Visual Studio Code workspace and extensions
+.vscode/
+
+# Rider project-specific files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Identity DB
+App_Data/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuget
+packages/
+!packages/build/
+!packages/repositories.config
+
+# SDK-specific
+global.json
+.vs/
+.env
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Lock files
+project.lock.json
+project.fragment.lock.json
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ppPackages/
+[Aa]ppxPackages/
+
+# Publish outputs
+*.Publish.xml
+*.publishproj
+
+# IDE-specific files
+*.dbmdl
+*.jfm
+*.pdb
+
+# IIS related
+IISExpress/
